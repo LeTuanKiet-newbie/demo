@@ -1,0 +1,7 @@
+khoi tao git: git init
+ket noi project voi repo: git remote add origin url-repo
+kiem tra trang thai cua source: git status
++ file màu đỏ: file đã thay đổi nhưng chưa save
+(working copy)
++file màu xanh: file đã thay đổi và đã được save. (staging area)
+git add . : dung de them tat ca cac file trong folder len git
